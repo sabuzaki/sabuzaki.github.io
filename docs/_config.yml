@@ -20,7 +20,7 @@
 
 title: Processors and Planes
 email: othernamen@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
+description: 
 Power — throttle to idle
 
 Ailerons — neutral
@@ -28,7 +28,6 @@ Ailerons — neutral
 Rudder — full opposite to the spin direction
 
 Elevator — firm forward pressure to break the stall
-
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
