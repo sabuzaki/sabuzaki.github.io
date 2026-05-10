@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Processors vs Planes"
 date: 2026-05-10
 categories: tech
